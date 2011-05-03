@@ -9,7 +9,7 @@ License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	87d173804abc67ce4dad3f98ebbc80f0
-URL:		http://pear.horde.org/package/Horde_Template/
+URL:		https://github.com/horde/horde/tree/master/framework/Template/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR
