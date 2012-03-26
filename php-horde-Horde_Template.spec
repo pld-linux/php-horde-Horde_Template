@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Template System
 Name:		php-horde-Horde_Template
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	87d173804abc67ce4dad3f98ebbc80f0
+# Source0-md5:	4ace9df439320c5e7b5b8ebcd7217548
 URL:		https://github.com/horde/horde/tree/master/framework/Template/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
