@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Template
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Template System
 Name:		php-horde-Horde_Template
 Version:	1.0.1
